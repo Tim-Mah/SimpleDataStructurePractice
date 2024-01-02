@@ -1,4 +1,7 @@
-
+/*
+* @Auther: Tim Mah
+* Date: Nov 10, 2020
+*/
 public class Nov10_SelectionSort {
 
 	public static void main(String[] args) {
