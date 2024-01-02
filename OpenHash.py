@@ -3,6 +3,12 @@ import string
 from nltk.corpus import stopwords
 import random
 
+'''
+@auther Tim Mah
+Date: 2022
+Generates a hash that stores the word and its frequency from a text file.
+'''
+
 stopWords = set(stopwords.words('english'))
 '''
     Node that stores a key, value, and points to the next node
