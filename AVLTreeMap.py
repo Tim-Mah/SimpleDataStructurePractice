@@ -2,7 +2,11 @@ import re
 import string
 from nltk.corpus import stopwords
 
-# AVL Tree that stores a sentence in a tree (removing stopwords)
+'''
+@auther: Tim Mah
+Date: 2022
+AVL Tree that stores a sentence in a tree (removing stopwords)
+'''
 class Node:
 
   def __init__(self, word):
