@@ -1,4 +1,8 @@
 import java.util.*;
+/*
+* @Auther: Tim Mah
+* Date: Nov 11, 2020
+*/
 public class Nov11_InsertionSort {
 
 	public static void main(String[] args) {
