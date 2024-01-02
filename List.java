@@ -1,3 +1,8 @@
+/* Linked list class with deletion, insertion, and traversing methods
+ * 
+ * @Auther: Tim Mah
+ * Date: Feb 25 2021
+ */
 
 public class List
 {
