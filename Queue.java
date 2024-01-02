@@ -3,7 +3,9 @@
  * 
  * Items are added to the back of the queue and 
  * removed from the front. (FIFO - Fisrt in, first out)
- * 
+ *  
+ * @Auther: Tim Mah
+ * Date: Feb 25 2021
  */
 
 public class Queue {
