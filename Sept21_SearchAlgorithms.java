@@ -1,4 +1,7 @@
-
+/*
+* @auther: Tim Mah
+* Date: Sept. 21 2020
+*/
 public class Sept21_SearchAlgorithms 
 {
 
