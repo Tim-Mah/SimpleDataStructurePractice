@@ -6,6 +6,8 @@
  * Items are added to and reoveed from the top of the stack 
  * (LIFO - Last in, first out)
  * 
+ * @Auther: Tim Mah
+ * Date: Feb 25 2021
  */
 
 public class Stack {
