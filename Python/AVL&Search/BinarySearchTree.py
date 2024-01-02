@@ -1,3 +1,7 @@
+'''
+@auther Tim Mah
+Date 2022
+'''
 class Node:
     def __init__(self, data):
         self.left = None
