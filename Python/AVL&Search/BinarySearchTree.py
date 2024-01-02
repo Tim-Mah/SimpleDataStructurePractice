@@ -1,6 +1,7 @@
 '''
 @auther Tim Mah
 Date 2022
+Binary Tree
 '''
 class Node:
     def __init__(self, data):
