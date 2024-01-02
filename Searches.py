@@ -2,6 +2,11 @@ import random
 import time
 
 '''
+@Auther: Tim Mah
+Linear and Binary search, and iterative merge sort
+'''
+
+'''
 @ param list_target: the list of elements to search for
 @ param list_source: the list being searched
 @return return a list of index locations of the target elements.
