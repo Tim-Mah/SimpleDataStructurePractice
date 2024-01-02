@@ -1,4 +1,10 @@
 '''
+@Auther: Tim Mah
+Date: 2021
+
+My implementation of a Stack class and a simple
+object that uses Stack
+
 An object of type Node holds one of the items
 in the linked list that represents the stack.
 '''
