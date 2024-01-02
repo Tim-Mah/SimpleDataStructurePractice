@@ -1,4 +1,7 @@
-
+/*
+* @Auther: Tim Mah
+* Date: Nov 12, 2020
+*/
 public class Nov12_BubbleSoft {
 
 	public static void main(String[] args) {
