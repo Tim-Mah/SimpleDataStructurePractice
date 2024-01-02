@@ -1,7 +1,9 @@
 '''
 Created on Mar. 3, 2022
 
-@author: student
+@author: Tim Mah
+
+Compares my implimentation of Bubble sort and the Bubble sort variation, cocktail shaker.
 '''
 import random
 import time
