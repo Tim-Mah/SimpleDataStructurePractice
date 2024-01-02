@@ -1,4 +1,12 @@
 import random
+
+'''
+@auther Tim Mah
+Date: 2022
+Generates a graph structure with n vertices and random edges.
+Impliments Prim's and Breadth-First searching
+'''
+
 ''' Representation of a connected, undirected graph data structure
     Graph is represented by 1/2 of an adjacentcy matrix.
     (1,1), (2, 2), etc. have been removed, as has anything above 
