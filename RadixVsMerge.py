@@ -1,4 +1,4 @@
-'''This compares my implementations of radix sort and merge sort.
+'''This compares my implementations of radix sort and merge sort. Iterative approach.
    
    CISC-121 2022W
    
